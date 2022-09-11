@@ -20,4 +20,4 @@ Friender is a web based application that allows University of Alberta students t
 ### Github Repos
 Friender Frontend: https://github.com/dayyanm/friend-finder-frontend
 
-Friender Back-End/API: https://github.com/dayyanm/friend-finder-frontend
+Friender Back-End/API: https://github.com/hassaannnn/friend-finder-api
