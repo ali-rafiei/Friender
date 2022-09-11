@@ -6,6 +6,8 @@ Friender is a web based application that allows University of Alberta students t
 ### How does it work?
 Friender will first ask all users to securely sign into their University of Alberta email to simplify account creation and ensure users a safe environment. Users will then be presented with questions that will be later used to match with friends based on their own preferences and personality. Using an extensive algorithm to determine the best friends for you, Friender connects you to people in your community. Try out Friender today!
 
+>[Web Application Preview](./Web-Application-Preview)
+
 ### Our Mission?
 Ever since COVID-19, it has become increasingly difficult to make friends online throughout the years. Now that classes are slowly coming back into person and as our communities become safer to socialize in, many students have come back to campus with very little communities to support them. In these stressful times, we want communities to flourish and grow as people come back together after so long from being apart. That’s where our idea of a web-application for schools/universities to locally make friends came to be. We want people to find each other and connect in otherwise isolated communities, which is why we created Friender to initiate progress in solving this common wide problem.
 
