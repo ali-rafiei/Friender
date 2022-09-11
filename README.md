@@ -19,7 +19,7 @@ Ever since COVID-19, it has become increasingly difficult to make friends online
 ### Team Members
 
 | Names | 
-| ---- |
+| --- |
 | Ali Rafiei |
 | Dayyan Muhammad |
 | Ayush Roy |
