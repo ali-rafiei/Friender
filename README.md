@@ -27,7 +27,7 @@ Ever since COVID-19, it has become increasingly difficult to make friends online
 | Asad Idrees |
 
 ##
-### Github Repos
+### Github Project Repos
 Friender Frontend: https://github.com/dayyanm/friend-finder-frontend
 
 Friender Back-End/API: https://github.com/hassaannnn/friend-finder-api
